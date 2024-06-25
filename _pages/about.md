@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Fabien Casenave"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 	src="https://plaid-datasets-rotor37-visu.hf.space"
 	frameborder="0"
 	width="850"
-	height="450"
+	height="1200"
 ></iframe>
 
 A data-driven personal website
