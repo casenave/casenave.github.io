@@ -26,7 +26,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.f
 
 # CV
 
-You can find my resume on [my LinkedIn profile](https://www.linkedin.com/in/fabien-casenave]).
+You can find my resume on [my LinkedIn profile](https://www.linkedin.com/in/fabien-casenave).
 
 # Software
 
