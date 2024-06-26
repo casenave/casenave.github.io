@@ -7,9 +7,14 @@ redirect_from:
   - /resume
 ---
 
-{% if site.author.linkedin %}
+<!-- {% if site.author.linkedin %}
   <div class="wordwrap">You can find my resume on <a href="https://www.linkedin.com/in/fabien-casenave">my LinkedIn profile</a>.</div>
-{% endif %}
+{% endif %} -->
+
+You can find my resume on [my LinkedIn profile](https://www.linkedin.com/in/fabien-casenave]).
+
+![CV extract](/../images/CV.png "CV extract")
+
 
 <!-- {% include base_path %}
 

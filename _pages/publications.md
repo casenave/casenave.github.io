@@ -10,8 +10,6 @@ author_profile: true
 {% endif %} -->
 
 
-# Publications
-
 You can find my articles on [my Google Scholar profile](https://scholar.google.fr/citations?user=VBv7cPQAAAAJ&hl=fr) or [my researchgate profile](https://www.researchgate.net/profile/Fabien-Casenave).
 
 
