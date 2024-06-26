@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% if site.author.linkedin %}
-  <div class="wordwrap">You can find my resume on <a href="{{site.author.googlescholar}}">my LinkedIn profile</a>.</div>
+  <div class="wordwrap">You can find my resume on <a href="{{site.author.linkedin}}">my LinkedIn profile</a>.</div>
 {% endif %}
 
 <!-- {% include base_path %}
