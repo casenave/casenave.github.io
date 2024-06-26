@@ -13,7 +13,7 @@ redirect_from:
 
 You can find my resume on [my LinkedIn profile](https://www.linkedin.com/in/fabien-casenave]).
 
-![CV extract](/../images/CV.png "CV extract")
+<!-- ![CV extract](/../images/CV.png "CV extract") -->
 
 
 <!-- {% include base_path %}
