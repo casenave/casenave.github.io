@@ -80,9 +80,10 @@
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stackoverflow</a></li>
       {% endif %}    
       {% if author.huggingface %}
-      <li><a href="https://huggingface.co/{{ author.huggingface }}"><i class="fa-light fa-face-smiling-hands" aria-hidden="true"></i>Huggingface</a></li>
+      <li><a href="https://huggingface.co/{{ author.huggingface }}"><img alt="Huggingface" src="../images/huggingface.png" /></i>Huggingface</a></li>
       <!-- <li><a href="https://huggingface.co/{{ author.huggingface }}"><i class="fab fa-fw fa-hugging-face icon-pad-right" aria-hidden="true"></i>Huggingface</a></li> -->
       {% endif %}      
+
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
