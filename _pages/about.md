@@ -15,8 +15,8 @@ I defended my [PhD](http://casenave.github.io/files/PhD_Casenave.pdf) en 2013 an
 
 # Current research interest
 
-* Physical Reduced-Order Modeling and dimensionality reduction
-* Machine learning for meshed-based data
+* Physical Reduced-Order Modeling
+* Machine learning for mesh-based data
 
 
 # Publications
