@@ -1,10 +1,8 @@
 ---
-permalink: /soft/
+layout: archive
 title: "Software"
+permalink: /soft/
 author_profile: true
-redirect_from: 
-  - /soft/
-  - /soft.html
 ---
 
 ## Open source projects;
