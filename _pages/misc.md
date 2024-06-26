@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-## Huggingface embedding spaces test
+## Huggingface embedded spaces
 
 ### Rotor37
 
@@ -13,7 +13,7 @@ author_profile: true
 	src="https://plaid-datasets-rotor37-visu.hf.space"
 	frameborder="0"
 	width="850"
-	height="1100"
+	height="720"
 ></iframe>
 
 ### Tensile2d
@@ -22,5 +22,5 @@ author_profile: true
 	src="https://plaid-datasets-tensile2d-visu.hf.space"
 	frameborder="0"
 	width="850"
-	height="1100"
+	height="720"
 ></iframe>
