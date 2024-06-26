@@ -5,7 +5,7 @@ permalink: /soft/
 author_profile: true
 ---
 
-## Open source projects;
+## Open source projects
 
 * [Mordicus](https://gitlab.com/mor_dicus/mordicus), a library implementing a data model for Reduced-Order Modeling, 
 * [genericROM](https://gitlab.com/drti/genericrom), a library implementing non-intrusive Physical Reduced-Order Modeling methods, based on Mordicus' data model, https://gitlab.com/drti/genericrom
