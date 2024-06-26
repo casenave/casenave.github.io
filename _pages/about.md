@@ -13,14 +13,22 @@ I am working on AI and Reduced Order Modeling technologies to speed-up industria
 I defended my [PhD](http://casenave.github.io/files/PhD_Casenave.pdf) en 2013 and my [Habilitation](http://casenave.github.io/files/HDR_Casenave.pdf) in 2020. 
 
 
-## Publications
+# Current research interest
+
+* Physical Reduced-Order Modeling and dimensionality reduction
+* Machine learning for meshed-based data
+
+
+# Publications
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.fr/citations?user=VBv7cPQAAAAJ&hl=fr) or [my researchgate profile](https://www.researchgate.net/profile/Fabien-Casenave).
 
 
-## CV
+# CV
 
 You can find my resume on [my LinkedIn profile](https://www.linkedin.com/in/fabien-casenave]).
+
+# Software
 
 ## Open source projects
 
