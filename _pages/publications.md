@@ -16,6 +16,12 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.f
 
 # dblp database - computer science bibliography
 
+<script type="text/javascript">
+<!--
+var arxiv_authorid = "casenave_f_1";
+//--></script>
+<script type="text/javascript" src="https://arxiv.org/js/myarticles.js"></script>
+
 <script src="https://bibbase.org/show?bib=https://dblp.org/pid/136/6770.bib&noBootstrap=1&jsonp=1"></script>
 
 <!-- {% include base_path %}
