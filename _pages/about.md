@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist working at Safran, the research center of [Safran Group](https://www.safran-group.com), a French multinational company that design and manufactures aerospace and defense equipments.
+I am a research scientist working at Safran, the research center of [Safran Group](https://www.safran-group.com), a French multinational company that designs and manufactures aerospace and defense equipments.
 I am working on AI and Reduced Order Modeling technologies to speed-up industrial computations.
 
 I defended my [PhD](http://casenave.github.io/files/PhD_Casenave.pdf) en 2013 and my [Habilitation](http://casenave.github.io/files/HDR_Casenave.pdf) in 2020. 
