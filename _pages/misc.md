@@ -19,7 +19,7 @@ author_profile: true
 ### AirfRANS
 
 <iframe
-	src="https://plaid-datasets-airfrans-visu.hf.space"
+	src="https://plaid-datasets-airfrans-remeshed-visu.hf.space"
 	frameborder="0"
 	width="850"
 	height="720"
