@@ -16,7 +16,16 @@ author_profile: true
 	height="720"
 ></iframe>
 
-### AirfRANS
+### AirfRANS original
+
+<iframe
+	src="https://plaid-datasets-airfrans-original-visu.hf.space"
+	frameborder="0"
+	width="850"
+	height="720"
+></iframe>
+
+### AirfRANS remeshed
 
 <iframe
 	src="https://plaid-datasets-airfrans-remeshed-visu.hf.space"
@@ -24,7 +33,6 @@ author_profile: true
 	width="850"
 	height="720"
 ></iframe>
-
 
 ### Tensile2d
 
