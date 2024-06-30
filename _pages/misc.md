@@ -13,7 +13,7 @@ author_profile: true
 	src="https://fabiencasenave-mmgp-demo.hf.space"
 	frameborder="0"
 	width="850"
-	height="800"
+	height="900"
 ></iframe>
 
 
