@@ -7,6 +7,16 @@ author_profile: true
 
 ## Huggingface embedded spaces
 
+### MMGP demo on AirfRANS remeshed
+
+<iframe
+	src="https://fabiencasenave-mmgp-demo.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+
+
 ### Rotor37
 
 <iframe
