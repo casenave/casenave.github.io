@@ -35,5 +35,5 @@ You can find my resume on [my LinkedIn profile](https://www.linkedin.com/in/fabi
 * [Mordicus](https://gitlab.com/mor_dicus/mordicus), a library implementing a data model for Reduced-Order Modeling
 * [genericROM](https://gitlab.com/drti/genericrom), a library implementing non-intrusive Physical Reduced-Order Modeling methods, based on Mordicus' data model
 * [Muscat](https://gitlab.com/drti/muscat), a library implementing I/O routines for fields and meshes formats, pre/post tools, and a finite element engine
-* [PLAID](https://gitlab.com/drti/plaid) (Physics Informed AI Datamodel), a library proposing an implementation for a datamodel tailored for AI and ML learning of physics problems
+* [PLAID](https://github.com/PLAID-lib/plaid) (Physics Informed AI Datamodel), a library proposing an implementation for a datamodel tailored for AI and ML learning of physics problems
 * [MMGP](https://gitlab.com/drti/mmgp) (Mesh Morphing Gaussian Processes), a library for learning solutions of physics problems under non-parametrized geometrical variability
