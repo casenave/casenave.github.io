@@ -12,12 +12,10 @@ I am working on AI and Reduced-Order Modeling technologies to speed-up industria
 
 I defended my [PhD](http://casenave.github.io/files/PhD_Casenave.pdf) en 2013 and my [Habilitation](http://casenave.github.io/files/HDR_Casenave.pdf) in 2020. 
 
-
 # Current research interest
 
 * Physical Reduced-Order Modeling
 * Machine learning for mesh-based data
-
 
 # Publications
 
@@ -28,9 +26,13 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.f
 
 You can find my resume on [my LinkedIn profile](https://www.linkedin.com/in/fabien-casenave).
 
-# Software
 
-## Open source projects
+# Open-Data for AI physics
+
+We constructed and published various datasets of solutions to physics problems on [Hugging Face](https://huggingface.co/PLAID-datasets) and [Zenodo](https://zenodo.org/communities/plaid_datasets), in PLAID format (see Software section below).
+Interactive benchmark are hosted on [Hugging Face](https://huggingface.co/PLAIDcompetitions), with detailed instructions on how to participate.
+
+# Software
 
 * [Mordicus](https://gitlab.com/mor_dicus/mordicus), a library implementing a data model for Reduced-Order Modeling
 * [genericROM](https://gitlab.com/drti/genericrom), a library implementing non-intrusive Physical Reduced-Order Modeling methods, based on Mordicus' data model
