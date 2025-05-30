@@ -21,7 +21,7 @@ I defended my [PhD](http://casenave.github.io/files/PhD_Casenave.pdf) en 2013 an
 
 # Publications
 
-You can find my articles on [my Google Scholar profile](https://scholar.google.fr/citations?user=VBv7cPQAAAAJ&hl=fr) or [my researchgate profile](https://www.researchgate.net/profile/Fabien-Casenave).
+You can find my articles on [my Google Scholar profile](https://scholar.google.fr/citations?user=VBv7cPQAAAAJ&hl=fr), [my researchgate profile](https://www.researchgate.net/profile/Fabien-Casenave) or [my Hugging Face profile](https://huggingface.co/fabiencasenave).
 
 
 # CV
